@@ -59,6 +59,7 @@ function BCS_AndrgitTurtle:SetReturnSelfHealing(statFrame)
 	text:SetText(format("%.2f%%", spellHealing))
 
 	statFrame.tooltip = format(L.RETURNED_AS_HEAL_TOOLTIP, spellHealing);
+	statFrame.tooltipSubtext = nil;
 	BCS_AndrgitTurtle:UpdateStatTooltip(statFrame);
 end
 
