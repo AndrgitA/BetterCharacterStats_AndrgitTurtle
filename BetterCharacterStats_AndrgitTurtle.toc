@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: BetterCharacterStats_AndrgitTurtle
+## Author: Andrgit
+## Version: 1.0.0
+## Dependencies: BetterCharacterStats
+
+BetterCharacterStats_AndrgitTurtle.xml
